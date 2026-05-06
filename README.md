@@ -22,7 +22,3 @@ Each choice affects:
 - Resource management system
 - Building mechanics
 - Win/lose conditions
-
-## ▶️ How to Run
-```bash
-python main.py
